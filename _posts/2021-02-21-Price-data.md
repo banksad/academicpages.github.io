@@ -1,3 +1,12 @@
+---
+title: 'Understanding price data (html)'
+date: 2021-02-21
+permalink: /posts/2021/02/Understanding-Price-Data-html/
+tags:
+  - consumer prices
+  - statistics
+---
+
 
 
 ```python
@@ -1701,3 +1710,4 @@ F_Stats.sort_values(by='p_val',ascending=True).head(n=20)
 ```python
 
 ```
+
