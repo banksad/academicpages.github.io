@@ -323,7 +323,7 @@ interact(statistical, x=['LAGER - PINT 3.4-4.2%','LIQUEUR PER NIP   SPECIFY ML']
 
 
     
-![png](Coursework2_files/Coursework2_10_1.png)
+![png](/images/prices/Coursework2_10_1.png)
     
 
 
@@ -529,7 +529,7 @@ wilcoxon("HOURLY RATE FOR SOLICITOR")
 
 
     
-![png](Coursework2_files/Coursework2_16_1.png)
+![png](/images/prices/Coursework2_16_1.png)
     
 
 
@@ -676,7 +676,7 @@ regional_chart('TAKEAWAY CHICKEN & CHIPS')
 
 
     
-![png](Coursework2_files/Coursework2_18_1.png)
+![png](/images/prices/Coursework2_18_1.png)
     
 
 
@@ -952,7 +952,7 @@ shoptype_chart('MENS SOCKS 1 PAIR')
 
 
     
-![png](Coursework2_files/Coursework2_22_0.png)
+![png](/images/prices/Coursework2_22_0.png)
     
 
 
@@ -1494,7 +1494,7 @@ seasonal_analysis("""KEROSENE - 1000L DELIVERED""")
 
 
     
-![png](Coursework2_files/Coursework2_29_2.png)
+![png](/images/prices/Coursework2_29_2.png)
     
 
 
